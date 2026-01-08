@@ -7,8 +7,6 @@ public class beeSeisNUmerosImpares {
         int X = sc.nextInt();
         int valoresImpares = 0;
         int valoresPares = 0;
-
-
         //impares
         if(X % 2 == 1){
             System.out.println(X);
