@@ -1,4 +1,4 @@
-public class beeSequenciaIJ_I {
+public class beeSequenciaIJ_1 {
     static void main(String[] args) {
         //beecrowd 1095
         int J = 60;
